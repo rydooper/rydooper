@@ -5,14 +5,16 @@ Fun tibits:
 - I use <b>he/him</b> pronouns.
 - In my non-coding time, I'm writing a novel and learning Russian!
 
-<br>
-My current projects are:
+
+My current coding projects are:
 - a twitter bot called kingofthecloudsbot
 - a discord bot for translating english messages to russian
 - a program to predict a developer's salary, using machine learning!
 <br>
+Once these projects are complete, the repos will be made public! 
+<br>
 
-My other/past projects you may be interested in:
+My other, past projects you may be interested in:
 - hacknotts2020 project -> [a website that displays various recipes, filtered by breakfast/lunch/dinner](https://github.com/rydooper/hacknotts2020-work)
 - [my jupyter notebooks](https://www.kaggle.com/ryderfranklin/notebooks) 
 <br>
