@@ -11,7 +11,7 @@ My current coding projects are:
 - a discord bot for translating english messages to russian
 - a program to predict a developer's salary, using machine learning!
 <br>
-Once these projects are complete, the repos will be made public! 
+Once these projects are complete, the repos will be made public! I am also in the process of learning React.
 <br>
 
 My other, past projects you may be interested in:
