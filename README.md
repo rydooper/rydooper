@@ -1,7 +1,7 @@
 # RydoopersRepo
 Howdy! I'm <b>Ryder Franklin</b> and this is my Github! <br>
 Fun tibits:
-- I'm currently a <b>Second Year Computer Science</b> student at Nottingham Trent University (NTU).
+- I'm currently a <b>Third Year Computer Science</b> student at Nottingham Trent University (NTU).
 - I use <b>he/him</b> pronouns.
 - In my non-coding time, I'm writing a novel and learning Russian!
 
