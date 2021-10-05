@@ -8,7 +8,7 @@ Fun tibits:
 
 My current coding projects are:
 - a twitter bot called kingofthecloudsbot
-- a discord bot for translating english messages to russian
+- a python voice assistant called Artie
 - a program to predict a developer's salary, using machine learning!
 <br>
 Once these projects are complete, the repos will be made public! I am also in the process of learning React.
