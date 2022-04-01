@@ -26,7 +26,6 @@ My other, past projects you may be interested in:
 My archived projects that will be completed in the future but, as of right now, aren't finished:
 - a twitter bot called kingofthecloudsbot (<b> archived </b>) <- this one requires more knowledge of hosting twitter bots on heroku to complete
 - a discord translater bot (<b> archived </b>) <- this one needs time to implement the translation features
-- a discord bot that chooses what game to play for you (<b> archived </b>) <- this was archived because it was essentially a random generator and wasn't that cool
 <br>
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/ryderfranklin2000) or via [Email](ryderarenfranklin@gmail.com). <br>
