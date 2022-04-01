@@ -17,14 +17,14 @@ Once these projects are complete, the repos will be made public! I'm currently l
 <br>
 
 My other, past projects you may be interested in:
-- hacknotts2020 project -> [a website that displays various recipes, filtered by breakfast/lunch/dinner](https://github.com/rydooper/hacknotts2020-work)
-- my SCC coursework -> [a springboot application that utilises REST API services](https://github.com/rydooper/SCC_Coursework)
+- our HackNotts 2020 project -> [a website that displays various recipes, filtered by breakfast/lunch/dinner](https://github.com/rydooper/hacknotts2020-work)
+- my service-centric and cloud computing coursework from 2021 -> [a springboot application that utilises REST API services](https://github.com/rydooper/SCC_Coursework)
 - [my jupyter notebooks](https://www.kaggle.com/ryderfranklin/notebooks) 
-- [a program that predicts a developers salary (also on jupyter notebook)](https://www.kaggle.com/code/ryderfranklin/machine-learning-coursework-2021/notebook)
+- my machine learning coursework from 2020 -> [a program that predicts a developers salary (also on jupyter notebook)](https://www.kaggle.com/code/ryderfranklin/machine-learning-coursework-2021/notebook)
 <br>
 
 My archived projects that will be completed in the future but, as of right now, aren't finished:
-- a twitter bot called kingofthecloudsbot (<b> archived </b>) <- this one requires more knowledge of hosting twitter bots on heroku
+- a twitter bot called kingofthecloudsbot (<b> archived </b>) <- this one requires more knowledge of hosting twitter bots on heroku to complete
 - a discord translater bot (<b> archived </b>) <- this one needs time to implement the translation features
 - a discord bot that chooses what game to play for you (<b> archived </b>) <- this was archived because it was essentially a random generator and wasn't that cool
 <br>
