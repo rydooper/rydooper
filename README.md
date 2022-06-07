@@ -16,7 +16,7 @@ Once these projects are complete, the repos will be made public! I'm currently l
 <br>
 
 My other, past projects you may be interested in:
-- my final year project from 2021-22 -> [a webscraper for articles on the BBC](https://github.com/rydooper/FYPCode) -> this is unlikely to have updates due to legal issues with using data from BBC's website as must remain as an academic/"proof of concept" style project
+- my final year project from 2021-22 -> [a webscraper for articles on the BBC](https://github.com/rydooper/FYPCode) -> this is unlikely to have updates due to legal issues with using data from BBC's website. as such, it must remain as an academic/"proof of concept" style project
 - our HackNotts 2020 project -> [a website that displays various recipes, filtered by breakfast/lunch/dinner](https://github.com/rydooper/hacknotts2020-work)
 - my service-centric and cloud computing coursework from 2021 -> [a springboot application that utilises REST API services](https://github.com/rydooper/SCC_Coursework)
 
