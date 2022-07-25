@@ -1,8 +1,8 @@
 # RydoopersRepo
 Howdy! I'm <b>Ryder Franklin</b> and this is my Github! <br>
 Fun tibits:
-- I'm currently a <b>Third Year Computer Science</b> student at Nottingham Trent University (NTU).
-- I also work with NTU's School of Architecture, Design and the Built Environment as a research assistant!
+- I'm a part time developer, working with NTU's School of Architecture, Design and the Built Environment as a research assistant!
+- I just graduated! Yay!
 - I use <b>he/him</b> pronouns.
 - I love cats!
 
