@@ -1,8 +1,7 @@
 # RydoopersRepo
 Howdy! I'm <b>Ryder Franklin</b> and this is my Github! <br>
 Fun tibits:
-- I'm a part time developer, working with NTU's School of Architecture, Design and the Built Environment as a research assistant!
-- I just graduated! Yay!
+- I graduated from NTU in June of 2022!
 - I use <b>he/him</b> pronouns.
 - I love cats!
 
