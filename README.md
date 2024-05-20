@@ -2,7 +2,6 @@
 Howdy! I'm <b>Ryder Franklin</b> and this is my Github! <br>
 Fun tibits:
 - I graduated from NTU in June of 2022!
-- I use <b>he/him</b> pronouns.
 - I love cats!
 
 My current coding projects are:
