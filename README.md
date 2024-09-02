@@ -1,14 +1,11 @@
 # RydoopersRepo
 Howdy! I'm <b>Ryder Franklin</b> and this is my Github! <br>
-Fun tibits:
-- I graduated from NTU in June of 2022!
-- I love cats!
 
 My current coding projects are:
-- a C# based RPG game with minigames and a focus on storylines!
+- a renpy-based Visual Novel!
 - a python voice assistant called Artie
 <br>
-Once these projects are complete, the repos will be made public! I'm currently learning C# through this game creation process which is exciting as I've not actually used C# before this :p
+Once these projects are complete, the repos will be made public :p
 
 <br><br>
 My other, past projects you may be interested in:
