@@ -18,6 +18,3 @@ My other, past projects you may be interested in:
 <br>
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/ryderfranklin2000) or via [Email](ryderarenfranklin@gmail.com). <br>
-
-[![Rydooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=rydooper&show_icons=true&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rydooper&theme=radical&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
